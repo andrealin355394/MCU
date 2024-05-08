@@ -11,5 +11,8 @@ ADC=T_Thermocouple-T_Thermistor= V_Thermocouple-V_Thermistor
 4	建立表傳感器表格(V-T表、R-T表)，將量測數值經過處理用於查表，曲線顯示溫	度，將量測誤差縮小。
 
 系統運作流程示例
+
 ![image](https://github.com/andrealin355394/MCU/assets/58961531/692b1afc-8c96-4e3c-b518-ea4ca5fbc518)
+
+
 定義V-T表格R-T表格、MCU IP設置、ADC讀值的處理。
