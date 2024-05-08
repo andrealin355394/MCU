@@ -8,6 +8,9 @@ Thermopile 紅外線測溫
 
 
 
+
+
+
 1.
   實體端測試誤差，修改ADC_GAIN值，R_Gain、V_Gain及ADC零點。
 2
@@ -25,7 +28,7 @@ ADC=T_Thermocouple-T_Thermistor= V_Thermocouple-V_Thermistor
 3.
   外接放大器，解決匹配阻抗問題。
 4
-  建立表傳感器表格(V-T表、R-T表)，將量測數值經過處理用於查表，曲線顯示溫	度，將量測誤差縮小。
+  建立表傳感器表格(V-T表、R-T表)，將量測數值經過處理用於查表，曲線顯示溫度，將量測誤差縮小。
 
 
 
